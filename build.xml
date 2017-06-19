@@ -1,6 +1,6 @@
 <!--    *******************************************************************************************************************-->
-<!--    Build Script in Ant for WB Salesforce Projects - BEGIN                                                             -->
-<!--    Author : Pradeep Singh - Cognizant    Last Modified Date : 05/04/16                                               -->
+<!--    Build Script in Ant - BEGIN                                                             						   -->
+<!--    Author : Rahul Kumar                                            												   -->
 <!--    *******************************************************************************************************************-->
 
 <project name="salesforce" default="deployCodeCheckOnly" basedir="." xmlns:sf="antlib:com.salesforce">
